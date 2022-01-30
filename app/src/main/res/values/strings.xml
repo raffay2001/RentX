@@ -22,4 +22,5 @@
     <string name="logout">Logout</string>
     <string name="edit_profile">Edit Profile</string>
     <string name="view_location">View location</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

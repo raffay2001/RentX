@@ -3,6 +3,7 @@ package com.example.rentx.screens;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -53,8 +54,8 @@ public class DetailsActivity extends AppCompatActivity {
                 .into(imageView);
 
 //        Converting the Strings Latitude and Longitude into Double
-        Double d_latitude = Double.parseDouble(latitude);
-        Double d_longitude = Double.parseDouble(longitude);
+//        Double d_latitude = Double.parseDouble(latitude);
+//        Double d_longitude = Double.parseDouble(longitude);
 
 
         locationButton.setOnClickListener(new View.OnClickListener() {
@@ -62,6 +63,13 @@ public class DetailsActivity extends AppCompatActivity {
             public void onClick(View view) {
                 // Code to be added for going to the map after fetching the longitude and lattitude positions
                 // USE d_latitude and d_longitude FOR MAPS .
+                Intent intent = new Intent();
+                intent.setClass(getApplicationContext(),MapsActivity.class);
+                intent.putExtra("latitude" , latitude) ;
+                intent.putExtra("longitude" , longitude);
+                startActivity(intent);
+
+
             }
         });
 
