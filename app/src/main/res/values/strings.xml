@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RentX</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="chat">Chat</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="update">Update</string>
+    <string name="homes">Homes</string>
+    <string name="flats">Flat</string>
+    <string name="room">Room</string>
+    <string name="search_here">Search here..</string>
+    <string name="karachi_sindh">Karachi, Sindh</string>
+    <string name="_500">$100</string>
+    <string name="_100">$100</string>
+    <string name="_1_bedroom">1 Bedroom</string>
+    <string name="description">Description :-</string>
+    <string name="apply">Apply</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="view_location">View location</string>
+</resources>

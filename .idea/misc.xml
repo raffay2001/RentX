@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/bg_logout.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/bg_search.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/bottom_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/button_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/card_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/edit_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/ic_account.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/ic_chat.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/ic_favorite.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/ic_favourite.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/layout_background.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/linear_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/drawable/rounded_borders.xml" value="0.2203125" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/background_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/fragment_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/fragment_favourite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/layout/top_deals.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/menu/bottom_menu.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/RentX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112541015521",
+    "project_id": "rentx-e4768",
+    "storage_bucket": "rentx-e4768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112541015521:android:873b0e7b2a07a5d11ac6a0",
+        "android_client_info": {
+          "package_name": "com.example.rentx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112541015521-s5m1qmb472c3prc69b63cth0lispkr2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bqwJy0rfm0sSQaq_FnPwjKsvAJi4tEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112541015521-s5m1qmb472c3prc69b63cth0lispkr2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
